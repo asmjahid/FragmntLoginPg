@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentInLoginPg</string>
+    <string name="about"> We developed this project to book a car on rent at the fare charges.
+        In present system all booking work done manually and it takes very hard work to maintain the information of booking and cars. If you want to find which vehicle is available for booking then it takes a lot of time. It only makes the process more difficult and hard. This aim of the project is to automate the work performed in the car rental management system like generating daily bookings, records of car or cab available for booking,
+        record of routes available,store record of the customer.Car rental management system is a car booking software that provides a complete solution to all your day-to-day
+        car booking office running needs. This system helps you to keep the information of Customer online.
+        </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
