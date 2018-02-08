@@ -29,7 +29,7 @@ public class FragmentActivity extends AppCompatActivity implements View.OnClickL
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.activity_fragment);
 
         about = (Button) findViewById(R.id.aboutBt);
 /*        pgone = (Button) findViewById(R.id.pgOne);*/
@@ -38,7 +38,7 @@ public class FragmentActivity extends AppCompatActivity implements View.OnClickL
         pgfour = (Button) findViewById(R.id.pgfour);
 
         about.setOnClickListener(this);
-        pgone.setOnClickListener(this);
+        //pgone.setOnClickListener(this);
         pgtwo.setOnClickListener(this);
         pgthree.setOnClickListener(this);
         pgfour.setOnClickListener(this);

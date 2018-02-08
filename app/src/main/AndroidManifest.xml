@@ -16,8 +16,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".loginActivity" />
-        <activity android:name=".AboutActivity" />
-        <activity android:name=".Signup"></activity>
+        <activity android:name=".FragmentActivity" />
+        <activity android:name=".Signup" />
+        <activity android:name=".HomeActivity"></activity>
     </application>
 
 </manifest>
